@@ -1,3 +1,3 @@
 using LinearAlgebra
-using Plot
+using Plots
 y=x
